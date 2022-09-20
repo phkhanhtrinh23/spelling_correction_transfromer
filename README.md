@@ -31,7 +31,7 @@ To get started, you should have prior knowledge on **Python** and **Pytorch** at
 
 - Input: [`english.txt`](http://www.manythings.org/anki/) a English Dictionary.
 
-- Output:`spelling_correction_transformer` is tis based on **Transformer Encoder-Decoder** model. It is fast in training and inference. The result is way better than my previous repo [`spelling_correction`](https://github.com/phkhanhtrinh23/spelling_correction)
+- Output:`spelling_correction_transformer` is based on **Transformer Encoder-Decoder** model. It is fast in training and inference. The result is way better than my previous repo [`spelling_correction`](https://github.com/phkhanhtrinh23/spelling_correction)
 
 ## Results
 <img src="./images/output.png"/>
